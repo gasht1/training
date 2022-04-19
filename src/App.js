@@ -9,7 +9,7 @@ const App=()=> {
           <h2>title</h2>
           <p>describtion</p>
         </div>
-        <h5>image </h5>
+        <h5>image source</h5>
       </div>
     </div>
   )
